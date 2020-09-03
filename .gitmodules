@@ -1,0 +1,4 @@
+[submodule "psbe-internal"]
+	path = psbe-internal
+	url = git@github.com:odoo-ps/psbe-internal.git
+	branch = 13.0
